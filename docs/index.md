@@ -7,12 +7,11 @@ hide:
   - edit
 ---
 
-<div class="header-img-div" style="max-width: 500px;">
-  <img src="index.assets/conceptual_rendering.png" style="width: 37%; height: auto;">
-  <img src="index.assets/hello_algo_mindmap_tp.png" style="width: 63%; height: auto;">
+<div class="header-img-div" style="max-width: 600px;">
+  <img src="index.assets/hello_algo_header.png" style="width: 100%; height: auto; margin-left: 15px; margin-right: 15px;">
 </div>
 
-<h2 align="center">《 Hello 算法 》</h2>
+<h2 align="center" style="margin-top: 25px;">《 Hello 算法 》</h2>
 
 <p align="center">动画图解、一键运行的数据结构与算法教程</p>
 
@@ -45,25 +44,7 @@ hide:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/C%2B%2B-snow?logo=c%2B%2B&logoColor=00599C">
-  <img src="https://img.shields.io/badge/Java-snow?logo=coffeescript&logoColor=FC4C02">
-  <img src="https://img.shields.io/badge/C%23-snow?logo=csharp&logoColor=512BD4">
-  <img src="https://img.shields.io/badge/Go-snow?logo=go&logoColor=00ADD8">
-  <img src="https://img.shields.io/badge/Swift-snow?logo=swift&logoColor=F05138">
-  <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=E9CE30">
-  <img src="https://img.shields.io/badge/TypeScript-snow?logo=typescript&logoColor=3178C6">
-  <img src="https://img.shields.io/badge/Dart-snow?logo=dart&logoColor=0175C2">
-  <img src="https://img.shields.io/badge/Rust-snow?logo=rust&logoColor=000000">
-  <img src="https://img.shields.io/badge/C-snow?logo=c&logoColor=A8B9CC">
-  <img src="https://img.shields.io/badge/Zig-snow?logo=zig&logoColor=F7A41D">
-  <img src="https://img.shields.io/badge/Stay%20Tuned-snow">
-</p>
-
----
-
-<h3 align="center">推荐语</h3>
+<img src="index.assets/hello_algo_hero.jpg" class="cover-image" style="width: 100%; margin-top: 27px;">
 
 <div style="display: flex;">
   <div class="admonition quote" style="flex: 1; margin-right: 0.4rem;">
@@ -124,8 +105,8 @@ hide:
 </div>
 
 <div class="admonition quote">
-  <p align="center">"追风赶月莫停留"</p>
-  <p align="center">“平芜尽处是春山”</p>
+  <p align="center">"Knowledge increases by sharing."</p>
+  <p align="center">“知识在分享中得以增长”</p>
 </div>
 
 ---
@@ -134,7 +115,7 @@ hide:
 
 两年前，我在力扣上分享了“剑指 Offer”系列题解，受到了许多同学的喜爱和支持。在与读者交流期间，我最常收到的一个问题是“如何入门算法”。逐渐地，我对这个问题产生了浓厚的兴趣。
 
-两眼一抹黑地刷题似乎是最受欢迎的方法，简单直接且有效。然而刷题就如同玩“扫雷”游戏，自学能力强的同学能够顺利将地雷逐个排掉，而基础不足的同学很可能被炸的满头是包，并在挫折中步步退缩。通读教材也是一种常见做法，但对于面向求职的同学来说，毕业季、投递简历、准备笔试面试已经消耗了大部分精力，啃厚重的书往往变成了一项艰巨的挑战。
+两眼一抹黑地刷题似乎是最受欢迎的方法，简单直接且有效。然而刷题就如同玩“扫雷”游戏，自学能力强的同学能够顺利将地雷逐个排掉，而基础不足的同学很可能被炸得满头是包，并在挫折中步步退缩。通读教材也是一种常见做法，但对于面向求职的同学来说，毕业季、投递简历、准备笔试面试已经消耗了大部分精力，啃厚重的书往往变成了一项艰巨的挑战。
 
 如果你也面临类似的困扰，那么很幸运这本书找到了你。本书是我对这个问题给出的答案，即使不是最优解，也至少是一次积极的尝试。本书虽然不足以让你直接拿到 Offer ，但会引导你探索数据结构与算法的“知识地图”，带你了解不同“地雷”的形状、大小和分布位置，让你掌握各种“排雷方法”。有了这些本领，相信你可以更加自如地刷题和阅读文献，逐步构建起完整的知识体系。
 
@@ -156,7 +137,7 @@ hide:
     </a>
 </p>
 
-本书的代码审阅工作由 codingonion、Gonglja、gvenusleo、hpstory、justin‐tse、krahets、night-cruise、nuomi1 和 Reanon 完成（按照首字母顺序排列）。感谢他们付出的时间与精力，正是他们确保了各语言代码的规范与统一。
+本书的代码审阅工作由 codingonion、Gonglja、gvenusleo、hpstory、justin-tse、krahets、night-cruise、nuomi1 和 Reanon 完成（按照首字母顺序排列）。感谢他们付出的时间与精力，正是他们确保了各语言代码的规范与统一。
 
 <div class="center-table">
     <table style="border: none;">
